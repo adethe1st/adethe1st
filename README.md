@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 Hi there, I'm **Omotayo Adeoluwa**, a **Cloud/DevOps Engineer** 🚀 from San Antonio, Texas.
  
 
-  <img align="right" alt="GIF" src="https://64.media.tumblr.com/tumblr_lts7ii2gfr1qmpg90o1_500.gif" />
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" />
 
 **About Me!**
 
