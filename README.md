@@ -36,9 +36,9 @@ Hi there, I'm **Omotayo Adeoluwa**, a **Software Engineer** 🚀 from San Antoni
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently working as a Cloud Engineer in the AWS space ☁️
-- 🌱 I’m currently exploring Python with a big interest in Machine Learning and AI implimentations on the cloud ☁️☁ 
-- 🤔 My interests are Cloud, AI and software engineering ☁️
+- 👨🏽‍💻 I’m currently working as a Solutions Engineer in the Cybersecurity space ☁️
+- 🌱 I’m currently exploring Python and Swift with a big interest in Machine Learning and AI implimentations on the cloud ☁️☁ 
+- 🤔 My interests are Cloud, AI and software engineering (mostly mobile) ☁️
 - 💼 I have a Bachelor's degree in Mechanical Engineering ☁️
 - 💬 Ask me about anything, I'd love to connect ☁️
 - 📫 Email me at [ade_tayo@ymail.com](mailto:ade_tayo@ymail.com).☁️
