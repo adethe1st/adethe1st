@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 <h3 title="hehehe"> Hey 👋, I'm Adé (ah-day)	</h3>
 
 <a href="https://www.linkedin.com/in/adeoluwa-omotayo/">
-  <img align="left" alt="ade's LinkdeIn" width="24px" color="white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="ade's LinkdeIn" width="24px" color="white" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg" />
 </a>
 <a href="https://twitter.com/ade_thefirst">
-  <img align="left" alt="ade's twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="ade's twitter" width="24px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/twitter/twitter-original.svg" />
 </a>
 
 <br>
@@ -56,9 +56,10 @@ Hi there, I'm **Omotayo Adeoluwa**, a **Software Engineer** 🚀 from San Antoni
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Javascript" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" />
 
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/swift/swift-original.svg" />
+<img align="left" alt="GraphQL" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/graphql/graphql-plain.svg" />
 <br />
 
 #
