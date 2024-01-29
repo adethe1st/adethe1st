@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h3 title="hehehe"> Hey 👋, I'm Adé (ah-day)	</h3>
 
 <a href="https://www.linkedin.com/in/adeoluwa-omotayo/">
-  <img align="left" alt="ade's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="ade's LinkdeIn" width="24px" color="white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://twitter.com/ade_thefirst">
   <img align="left" alt="ade's twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
